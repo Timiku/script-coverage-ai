@@ -12,3 +12,10 @@ Screenplay length is limited to the 4096 token limit of GPT-3.5-turbo. This will
 With access larger context models (GPT4-32k, Claude-100k), submitting entire feature-length screenplays would be possible.
 
 I have no coding experience prior to this project. Created with 90% ChatGPT code.
+
+==Install and Run==
+
+Python 3.10 required.
+
+Windows: Use run.bat to install and run.
+Mac and Linux: Use run.sh to install and run.
